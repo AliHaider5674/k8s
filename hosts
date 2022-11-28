@@ -1,0 +1,2 @@
+[webservers]
+34.221.115.134  ansible_ssh_private_key_file=../k8s.pem   ansible_user=ubuntu
